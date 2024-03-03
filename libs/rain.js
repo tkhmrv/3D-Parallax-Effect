@@ -9,7 +9,7 @@ function randomNum(max, min) {
 	return Math.floor(Math.random() * max) + min;
 }
 
-// Конструктор для капель дождя
+// Класс для создания капель дождя
 class RainDrops {
 	constructor(x, y, endy, velocity, opacity) {
 		this.x = x;
