@@ -16,11 +16,6 @@
 }
 
 @font-face {
-	font-family: merriweather-italic-3d;
-	src: url(../fonts/merriweather-regular-italic.woff2);
-}
-
-@font-face {
 	font-family: inter;
 	src: url(../fonts/Inter/Inter-VariableFont_slnt\,wght.ttf);
 }
